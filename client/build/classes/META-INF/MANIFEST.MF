@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.5
+Created-By: 1.8.0_202-ea-b03 (Oracle Corporation)
+Main-Class: com.ferracestudio.ninjavillage.DesktopLauncher
+Built-Time: 2023-09-13 14:25:34
+Built-Id: ew5Umh4VROe7wJ[ZZyy_;W]51ezhZ=HXHJ8muGgsH
+Class-Path: .
+
